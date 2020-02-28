@@ -1,11 +1,9 @@
 ---
 layout: classic-docs
-title: What is severity
+title: What is severity?
 categories: [airbrake-faq]
-description: what is severity
+description: what severity is and how it is used
 ---
-
-### What is severity?
 
 ![severity.png](/docs/assets/img/docs/airbrake/severity.png)
 
